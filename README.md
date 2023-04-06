@@ -24,6 +24,7 @@ Update all plots when a new sample is selected.
 ![Screenshot (110)](https://user-images.githubusercontent.com/115572537/230273007-f14ee42a-024d-4de0-b502-91432f3e73f0.png)
 
 ## Link to GITHub Pages
+https://dailyneed.github.io/belly-button-challenge/
 
 ## Reference
 Jason Lepelmeier,(2023, Mar 30). Class lecture: Pdf 14.3 JavaScript with D3.js. Data Analytics and Visualization Bootcamp. University of Minnesota.https://umn.bootcampcontent.com/University-of-Minnesota-Boot-Camp/UofM-VIRT-DATA-PT-12-2022-U-LOLC/-/blob/main/14-Interactive-Visualizations/3/14.3%20JavaScript%20with%20D3.js.pdf
