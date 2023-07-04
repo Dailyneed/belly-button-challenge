@@ -2,10 +2,10 @@
 
 
 ## Background
-Your company is interested exploring the microbes that colonize human navels, and you are tasked to build a dashboard that reveals a microbial species that are common in people, just with the click of a button.
+Your company is interested in exploring the microbes that colonize human navels, and you are tasked to build a dashboard that reveals a microbial species that are common in people, just with the click of a button.
 
 ## Objective
-The purpose of this project is to utilize Javasscript in building an interactive dashboard to explore the Belly Button Biodiversity dataset. 
+The purpose of this project is to utilize JavaScript in building an interactive dashboard to explore the Belly Button Biodiversity dataset. 
 
 ## Technologies
 Javascript,
